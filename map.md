@@ -252,4 +252,3 @@ Beginner roadmap for Red Team🎯❤️
             ├── Customization and Configuration
             └── Network Configuration and Isolation
 
-follow for more- @harshleenchawl2
