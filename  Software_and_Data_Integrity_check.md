@@ -10,6 +10,6 @@
 6. shasum
 
 #### online tools
-1. srihash (https://www.srihash.org/)
+1. srihash [https://www.srihash.org/]
 2. 
 3. 
