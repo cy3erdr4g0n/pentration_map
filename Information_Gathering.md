@@ -1,4 +1,6 @@
 ## 📍Information Gathering
+
+<pre>
 ├── OSINT (Open-Source Intelligence)
 │   ├── Techniques
 │   │   ├── Search Engines (Google Dorking)
@@ -63,3 +65,5 @@
         └── Credentialed Scanning
             ├── Configuring Credentials
             └── Enhanced Detection Capabilities
+
+</pre>
