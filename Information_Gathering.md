@@ -1,5 +1,6 @@
 ## 📍Information Gathering
 
+```
 <pre>
 ├── OSINT (Open-Source Intelligence)
 │   ├── Techniques
@@ -67,3 +68,5 @@
             └── Enhanced Detection Capabilities
 
 </pre>
+
+```
